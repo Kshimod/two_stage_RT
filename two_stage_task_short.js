@@ -115,7 +115,7 @@ const init_inst = "<p class='inst_text'>HOW?<br>LETS MOVE TO THE EXPERIMENT" +
 const block_fin = "<p class='inst_text'> これでこのブロックは終了です。<br><br>" +
     "Feel free to have a short break. Press SPACE KEY to start when you're ready.<br>必要なだけ休憩を取り，準備ができたらスペースキーを押して次へ進んでください。<p>"
 const exp_fin = "<p class='inst_text'>Thank you! Your participation is a valuable contribution to our research.<br>ありがとうございました! あなたの参加は、私たちの研究への貴重な貢献です。<br><br>"+
-    ">Press SPACE key to submit your results.<br>スペースキーを押して、結果を送信してください。";
+    "Press SPACE key to submit your results.<br>スペースキーを押して、結果を送信してください。";
 
 
 //instructions
